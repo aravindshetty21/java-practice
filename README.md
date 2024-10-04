@@ -1,1 +1,2 @@
-# java-practice
+# java
+This repository contains java examples
